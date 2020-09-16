@@ -36,3 +36,7 @@ end
 def clock_noise
   puts "tick tock"
 end
+
+def practice_merge
+  puts "This is Jessica"
+end
