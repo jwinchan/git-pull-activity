@@ -38,5 +38,6 @@ def clock_noise
 end
 
 def practice_merge
-  puts "this is Hanh"
+  puts " Hanh and Jessica were here"
 end
+
